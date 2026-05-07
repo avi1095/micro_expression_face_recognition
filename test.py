@@ -2,7 +2,6 @@ import os
 video_path = "//gallery/video_me/man.mp4"
 print("Man.mp4 exists?", os.path.exists(video_path))
 print("File size:", os.path.getsize(video_path))
-#_________________________
 import libreface
 
 video_path = "//gallery/video_me/Man.mp4"
