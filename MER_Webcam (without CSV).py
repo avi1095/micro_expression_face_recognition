@@ -84,7 +84,7 @@ def main():
 
                 cv2.imshow("Webcam Facial Recognition", frame)
 
-                if cv2.waitKey(1) & 0xFF == 27:  # ESC key to quit
+                if cv2.waitKey(1) & 0xFF == 27: 
                     break
 
                 frame_idx += 1
