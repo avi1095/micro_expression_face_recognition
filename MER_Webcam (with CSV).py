@@ -6,7 +6,7 @@ import os
 import torch
 import threading
 import csv
-import numpy as np  # For blank frame creation if needed
+import numpy as np  
 
 mp_face_detection = mp.solutions.face_detection
 
