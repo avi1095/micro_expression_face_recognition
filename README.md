@@ -28,7 +28,7 @@ Micro_Expression_Face_Recognition/
 ├── gallery/                     # Sample images and outputs
 ├── outputs/                     # Prediction results
 ├── tmp/                         # Temporary files
-├── weights_libreface/          # LibreFace model weights
+├── weights_libreface/           # LibreFace model weights
 │
 ├── Final_MER.py                 # Main final execution script
 ├── MER_Webcam (with CSV).py     # Webcam prediction using CSV data
